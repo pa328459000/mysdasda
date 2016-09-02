@@ -1,4 +1,4 @@
-package com.example.day30uidpi;
+﻿package com.example.day30uidpi;
 
 import android.content.res.Configuration;
 import android.os.Bundle;
@@ -30,7 +30,9 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         Log.d("paa","chongxinzhixin");
-
+        Log.d("paa","chongxinzhixin");
+ Log.d("paa","chongxinzhixin");
+ Log.d("paa","chongxinzhixin");
     }
     public void onClick(View v){
         Log.d("paa",""+getResources().getDisplayMetrics().xdpi);
