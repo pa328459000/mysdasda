@@ -30,14 +30,12 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         Log.d("paa","chongxinzhixin");
-        Log.d("paa","chongxinzhixin");
- Log.d("paa","chongxinzhixin");
- Log.d("paa","chongxinzhixin");
+          //dasdasdasdasdasd
     }
     public void onClick(View v){
         Log.d("paa",""+getResources().getDisplayMetrics().xdpi);
         Log.d("paa",""+getResources().getDisplayMetrics().ydpi);
-        Log.d("paa",""+getResources().getDisplayMetrics().densityDpi);
+        Log.d("paa",""+getResources().getDisplayMetrics().densityDpi);/c
 
     }
 
